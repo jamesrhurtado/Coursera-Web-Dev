@@ -1,0 +1,32 @@
+body {
+  font-size: 20px;
+  background-color: darkolivegreen;
+  color: #fff;
+  font-family: "Oxygen", sans-serif;
+}
+
+#header-nav {
+  background-color: skyblue;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-inverse {
+  background-color: rgba(35, 46, 33, 0.733);
+  border-color: #080808;
+}
+.navbar-brand {
+  padding-top: 30px;
+  padding-bottom: 50px;
+  font-family: "Lora", serif;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  line-height: 0.75;
+}
+
+.row h2 {
+  text-align: center;
+}
